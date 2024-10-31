@@ -1,0 +1,12 @@
+{
+    "name": "gaupoit/protect-wp-videos",
+    "require": {
+        "aws/aws-sdk-php": "^3.64"
+    },
+    "authors": [
+        {
+            "name": "Thinh Nguyen",
+            "email": "thinhnp@ymese.com"
+        }
+    ]
+}
